@@ -16,8 +16,7 @@ Before publishing:
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=750&height=55&lines=Production+Engineering;Data+Analysis+%26+Dashboards;Process+Improvement+%26+Automation;Python%2C+AI+%26+Continuous+Learning" alt="Animated introduction"/>
-  </a>
+    <img src="./images/imagem (10).png>
 </p>
 
 <p align="center">
