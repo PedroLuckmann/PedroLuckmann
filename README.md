@@ -14,7 +14,7 @@ Before publishing:
 
 <h1 align="center">Hi there, I'm an Engineer 👋</h1>
 
-<p align="center">
+<p align="left">
     <img src="./images/imagem (10).png"
          alt="Sup image"
          width="35%"
