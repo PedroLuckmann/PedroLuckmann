@@ -16,6 +16,8 @@ Before publishing:
 
 <p align="center">
     <img src="./images/"
+         alt="Sup image"
+         width="35%"
     >
 </p>
 
