@@ -7,7 +7,9 @@ Before publishing:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=ENGINEERING%20%7C%20DATA%20%7C%20AUTOMATION&fontSize=26&fontColor=ffffff&fontAlignY=38" width="100%" alt="Engineering banner"/>
+  <img src="./images/teste.png"
+       alt="My profile banner"
+       width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm an Engineer 👋</h1>
