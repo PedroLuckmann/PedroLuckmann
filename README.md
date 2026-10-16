@@ -15,8 +15,8 @@ Before publishing:
 <h1 align="center">Hi there, I'm an Engineer 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="./images/imagem (10).png>
+    <img src="./images/imagem (10).png
+    >
 </p>
 
 <p align="center">
