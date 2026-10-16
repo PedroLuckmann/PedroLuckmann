@@ -7,7 +7,7 @@ Before publishing:
 -->
 
 <p align="center">
-  <img src="./images/teste.png"
+  <img src="./images/"
        alt="My profile banner"
        width="100%">
 </p>
@@ -15,7 +15,7 @@ Before publishing:
 <h1 align="center">Hi there, I'm an Engineer 👋</h1>
 
 <p align="center">
-    <img src="./images/imagem (10).png"
+    <img src="./images/"
     >
 </p>
 
